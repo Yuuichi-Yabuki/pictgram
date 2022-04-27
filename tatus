@@ -1,0 +1,50 @@
+[33mcommit df6e5af45357ef0a9697ddd744b95d8c7291eb1a[m[33m ([m[1;36mHEAD -> [m[1;32mtopic/3[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 20c1e59 a967024
+Author: Yuuichi-Yabuki <94892072+Yuuichi-Yabuki@users.noreply.github.com>
+Date:   Tue Apr 26 10:26:04 2022 +0900
+
+    Merge pull request #2 from Yuuichi-Yabuki/topic/2
+    
+    Topic/2
+
+[33mcommit a9670246a8e773f3c50ace6c93b65a9c9ff686aa[m[33m ([m[1;31morigin/topic/2[m[33m)[m
+Author: Yuuichi-Yabuki <y.yabuki@quantum-g.jp>
+Date:   Mon Apr 25 19:27:32 2022 +0900
+
+    modified README.md #1
+
+[33mcommit 129a0d89bfced82ef16726c824017318fe21a65b[m
+Author: Yuuichi-Yabuki <y.yabuki@quantum-g.jp>
+Date:   Mon Apr 25 19:20:23 2022 +0900
+
+    first commit
+
+[33mcommit 20c1e5934869d70a9c47f9d49409b0d4e36b5428[m[33m ([m[1;31mheroku/main[m[33m)[m
+Author: Yuuichi-Yabuki <y.yabuki@quantum-g.jp>
+Date:   Mon Apr 25 17:49:07 2022 +0900
+
+    add Procfile
+
+[33mcommit 6e164988b33b7f46a5055b9bce04c3e5317042c2[m
+Author: Yuuichi-Yabuki <y.yabuki@quantum-g.jp>
+Date:   Mon Apr 25 17:44:15 2022 +0900
+
+    add system.properties
+
+[33mcommit 76560fd9b9fd384972f635e5b6837d915648ae86[m[33m ([m[1;31morigin/topic/1[m[33m, [m[1;32mtopic/1[m[33m)[m
+Author: Yuuichi-Yabuki <y.yabuki@quantum-g.jp>
+Date:   Mon Apr 25 15:15:19 2022 +0900
+
+    add Procfile
+
+[33mcommit f1d5a2edafeba4d077d00086675285bba9c33c5c[m
+Author: Yuuichi-Yabuki <y.yabuki@quantum-g.jp>
+Date:   Mon Apr 25 15:07:02 2022 +0900
+
+    add system.properties
+
+[33mcommit cd6ceffa0b6fc7624350562d1d04adbe07991a13[m
+Author: Yuuichi-Yabuki <y.yabuki@quantum-g.jp>
+Date:   Fri Apr 22 11:29:40 2022 +0900
+
+    first commit
