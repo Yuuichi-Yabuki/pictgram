@@ -9,5 +9,5 @@ spring:
     console:
       enabled: true
       debug: true
-      image:
+image:
   local: true
